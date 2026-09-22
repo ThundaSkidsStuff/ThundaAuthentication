@@ -1,0 +1,21 @@
+{
+  "name": "com.thunda.auth",
+  "version": "1.0.0",
+  "displayName": "Thunda Auth",
+  "description": "Meta attestation + PlayFab login for Quest games.",
+  "unity": "2021.3",
+  "keywords": [
+    "oculus",
+    "meta",
+    "playfab",
+    "auth",
+    "anticheat"
+  ],
+  "samples": [
+    {
+      "displayName": "Login Example",
+      "description": "Minimal MonoBehaviour that logs in on Start.",
+      "path": "Samples~/LoginExample"
+    }
+  ]
+}

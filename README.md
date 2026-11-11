@@ -19,7 +19,7 @@ if someone is modding, rooted, on an old update or banned they never get a sessi
 **unity package manager (git url)**
 
 ```
-https://github.com/ThundaSkidsStuff/ThundaAuthentication.git?path=/Unity/Thunda.Auth
+https://github.com/ThundaSkidsStuff/ThundaAuthentication.git?path=/Unity/Thunda.ThundaAuthentication
 ```
 
 **or just drag it in**
